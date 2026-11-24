@@ -11,3 +11,7 @@ On first launch, macOS Gatekeeper may block it (ad-hoc signed): open **System Se
 ---
 
 This repository hosts the packaged app only. The source code lives in a separate private repository.
+
+---
+
+Built by [Soumyaranjan Panda](https://soumyapanda.dev)
